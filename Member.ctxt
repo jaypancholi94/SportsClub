@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Member
+comment0.text=\n\ Member\ class\ for\ managing\ member\ details\n\n\ @author\ Jay\ Pancholi\n\ @version\ 27/04/2018\n
+comment1.params=memberName\ memberId\ sportsPlayed\ isFinancial
+comment1.target=Member(java.lang.String,\ int,\ java.lang.String,\ boolean)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Member\n
+comment2.params=
+comment2.target=java.lang.String\ getMemberName()
+comment2.text=\n\ getMemberName\ method\ for\ accessing\ value\n\n\ @return\ \ memberName\n
+comment3.params=
+comment3.target=int\ getMemberId()
+comment3.text=\n\ getMemberId\ method\ for\ accessing\ value\n\n\ @return\ \ memberId\n
+comment4.params=
+comment4.target=boolean\ getFinancialStatus()
+comment4.text=\n\ getFinancialStatus\ method\ for\ accessing\ value\n\n\ @return\ \ isFinancial\n
+comment5.params=
+comment5.target=java.lang.String\ getSportsPlayed()
+comment5.text=\n\ getSportsPlayed\ method\ for\ accessing\ value\n\n\ @return\ \ sportsPlayed\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ toString\ method\ for\ printing\ value\n\n\ @return\ \ \ \ String\n
+numComments=7

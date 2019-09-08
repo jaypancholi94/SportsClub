@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FileUtility
+comment1.params=fileName
+comment1.target=java.util.ArrayList\ readFromFile(java.lang.String)
+comment1.text=\n\ Reads\ data\ from\ file\ returning\ the\ lines\ as\ a\ list,\ or\ null\ if\ error\n\ \ @param\ fileName\ String\n
+comment2.params=fileName\ data
+comment2.target=void\ writeToFile(java.lang.String,\ java.util.ArrayList)
+comment2.text=\n\ Write\ data\ to\ file\ \n\ @param\ String\ fileName,\ ArrayList<String>\ data\n
+numComments=3

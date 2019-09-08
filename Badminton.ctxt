@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Badminton
+comment0.text=\n\ Badminton\ class\ as\ child\ class\n\n\ @author\ Jay\ Pancholi\n\ @version\ 27/04/2018\n
+comment1.params=sportName\ usageFees\ insuranceFees\ needRacket
+comment1.target=Badminton(java.lang.String,\ int,\ int,\ boolean)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Badminton\n
+comment2.params=
+comment2.target=boolean\ getNeedRacket()
+comment2.text=\n\ getNeedRacket\ method\ for\ accessing\ value\n\n\ @return\ \ needRacket\n
+comment3.params=needRacket
+comment3.target=boolean\ setNeedRacket(boolean)
+comment3.text=\n\ setNeedRacket\ method\ for\ seting\ value\ of\ needRacket\n\n\ @param\ \ needRacket\ varible\ \n\ @return\ \ \ \ boolean\ true\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ toString\ method\ for\ printing\ value\n\n\ @return\ \ \ \ String\n
+numComments=5
